@@ -1,0 +1,24 @@
+{
+  "name": "Aseprite_normal_lighter",
+  "displayName": "Aseprite_normal_lighter",
+  "description": "Normal-map generation, light masks, persistent normal editing and relighting tools for Aseprite.",
+  "version": "0.6.1",
+  "author": {
+    "name": "bitopu",
+    "url": "https://github.com/bitopus"
+  },
+  "contributors": [
+    {
+      "name": "rhinoc",
+      "url": "https://github.com/rhinoc/xprite-lighter"
+    }
+  ],
+  "publisher": "bitopu",
+  "license": "MIT",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+      { "path": "./main.lua" }
+    ]
+  }
+}
