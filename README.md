@@ -1,15 +1,13 @@
 # Aseprite_normal_lighter
 
-Aseprite_normal_lighter 是由 [bitopu](https://github.com/bitopus) 维护的 Aseprite Lua 扩展，提供法线贴图生成、光线遮罩、重光照预览和手动法线编辑预览功能
+Aseprite_normal_lighter 是用于 Aseprite 的扩展，提供法线贴图生成、光线遮罩、光照预览和手动法线编辑预览功能
 
 本项目基于 [rhinoc/xprite-lighter](https://github.com/rhinoc/xprite-lighter) 修改和移植。原项目改编自 Red Hat Sprite 的 Pixel Art Lighter v3.5.22，相关版权与许可声明保留在 `LICENSE` 和 `LICENSES/` 中
 
 ## 功能
 
-- 根据当前帧生成法线贴图和光线遮罩
-- 支持所有图层、可见图层或指定图层作为来源
-- 提供物件、角色、建筑和地形四种法线预设
-- 法线贴图编辑可预览手动修改法线贴图后的光照效果
+- 生成精灵法线贴图和光线遮罩
+- 贴图重新编辑和实时光照预览
 
 ## 安装
 
